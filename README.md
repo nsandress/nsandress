@@ -1,8 +1,8 @@
 Hola.
 
 Soy Nicolas Andres.
-- <i>Currently:</i> Desarrollador Full Stack de Guiñez Ingeniería, trabajando con Laravel.
-- <i>Currently:</i> Aprendiendo Node.js.
+- <i>Actualmente:</i> Desarrollador Full Stack de Guiñez Ingeniería, trabajando con Laravel.
+- <i>Actualmente:</i> Aprendiendo Node.js.
   
 ## 💼 Habilidades técnicas
 ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=PHP&logoColor=%white)
