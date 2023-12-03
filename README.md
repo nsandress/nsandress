@@ -13,8 +13,6 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-21759B?style=flat-square&logo=React&logoColor=white" />
-
 </p>
 
 > Actualmente trabajo 
