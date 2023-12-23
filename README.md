@@ -3,7 +3,6 @@
 **Sobre mí:**
 
 - 💻 Trabajo como Desarrollador Full Stack en Chile.
-- 🤲 Busco colaborar en Proyectos.
 - 🚀 Sigo aprendiendo Estructuras de Datos y Algoritmos.
 
 <h3>Mis herramientas</h3>
