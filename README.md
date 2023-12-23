@@ -25,7 +25,6 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git%20-%23F05033.svg?&style=flat-square&logo=Git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
