@@ -1,4 +1,4 @@
-<h1> Hola, Soy Nicolas Andres <img src="https://imgur.com/XhBbG2t.gif" alt="Meaow" width="50" /> </h1>
+<h1> Hola, Soy Nicolas <img src="https://imgur.com/XhBbG2t.gif" alt="Meaow" width="50" /> </h1>
 
 **Sobre mí:**
 
